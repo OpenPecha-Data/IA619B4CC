@@ -1,0 +1,16 @@
+id: IA619B4CC
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:52:47.291718
+last_modified: 2023-02-08 14:52:47.291820
+source_metadata:
+  title: 'PP: Aṣṭasāhasrikā Prajñāpāramitā'
+  language: zh
+bases:
+  898E:
+    base_file: 898E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
